@@ -2,7 +2,7 @@ import React from 'react'
 const Navbar = () => {
     return (
         <>
-            <div className="nav-left col-lg-2  col-4 d-flex flex-column shadow align-items-center ">
+            <div className="nav-left col-lg-2  col-7 d-flex flex-column shadow align-items-center ">
                 <div className='d-flex flex-column gap-4'>
                     <div>
                         <i class="bi bi-twitter"></i>
